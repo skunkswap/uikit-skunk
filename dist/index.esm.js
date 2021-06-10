@@ -2204,7 +2204,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/SkunkSwapBsc",
+        href: "https://twitter.com/SkunkSwapFin",
     },
 ];
 var MENU_HEIGHT = 64;
